@@ -28,7 +28,7 @@ this.hansagames_fsm = this.hansagames_fsm || {};
   /**
    * Function called before state will transit to next state
    * @method willChangeTo
-   * @param  {object} state next state
+   * @param  {string} state next state
    */
   FSMState.prototype.willChangeTo = function(state) {
 
