@@ -1,7 +1,7 @@
 {
   "name": "fsm-es5",
   "version": "1.0.0",
-  "private":true,
+  "private": true,
   "description": "es5 class based version of FSM",
   "scripts": {
     "concat": "grunt concat"
