@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "out": "dist/fsm.js",
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "filesGlob": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "!node_modules/**"
+    ],
+    "compileOnSave": true,
+    "buildOnSave": true,
+    "files": [
+        "src/fsm/FSM.ts",
+        "src/fsm/FSMState.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
