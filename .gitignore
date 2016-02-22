@@ -2,3 +2,5 @@ es5/node_modules
 es5/dist
 es5/test/jasmine/lib
 npm-debug.log
+test/jasmine/lib
+typescript/dist
