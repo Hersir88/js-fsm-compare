@@ -1,0 +1,6 @@
+{
+  "src": [
+    "src/fsm/FSMState.js",
+    "src/fsm/FSM.js"
+  ]
+}
