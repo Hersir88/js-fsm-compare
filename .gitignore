@@ -5,3 +5,5 @@ npm-debug.log
 test/jasmine/lib
 typescript/dist
 haxe/dist
+es6-babel/node_modules
+es6-babel/dist
