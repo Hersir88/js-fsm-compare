@@ -6,8 +6,7 @@ describe("Test FSM",function(){
   var pauseState;
 
   beforeEach(function(){
-      console.log("Start");
-      console.log(hansagames);
+    
       fsm = new hansagames.fsm.FSM();
 
       playState = new hansagames.fsm.FSMState('play');
