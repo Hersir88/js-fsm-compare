@@ -4,3 +4,4 @@ es5/test/jasmine/lib
 npm-debug.log
 test/jasmine/lib
 typescript/dist
+haxe/dist

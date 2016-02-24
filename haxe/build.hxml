@@ -1,0 +1,5 @@
+-js dist/fsm.js
+-cp src
+-D js-es5
+-D shallow-expose
+--macro include('hansagames.fsm', true)
