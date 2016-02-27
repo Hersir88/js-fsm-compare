@@ -7,3 +7,4 @@ typescript/dist
 haxe/dist
 es6-babel/node_modules
 es6-babel/dist
+es6-factory/node_modules
