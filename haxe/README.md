@@ -12,4 +12,4 @@ To use haxe example you need to install it from [here][f83ed85c] and in command 
 
 ## Jasmine test
 
-Check if all paths are correct in haxe/test/jasmine/SpecRunner.html and launch it.
+Check if all paths are correct in `haxe/test/jasmine/SpecRunner.html` and launch it.

@@ -9,4 +9,4 @@ Run command `tsc` inside folder `typescript` to generate file in `dist` folder.
 
 ## Jasmine test
 
-Check if all paths are correct in typescript/test/jasmine/SpecRunner.html and launch it.
+Check if all paths are correct in `typescript/test/jasmine/SpecRunner.html` and launch it.

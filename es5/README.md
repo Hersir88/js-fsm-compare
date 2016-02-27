@@ -8,4 +8,4 @@ Run command `npm run concat` inside folder `es5` to generate file in `dist` fold
 
 ## Jasmine test
 
-Check if all paths are correct in es5/test/SpecRunner.html and launch it.
+Check if all paths are correct in `es5/test/SpecRunner.html` and launch it.
