@@ -8,3 +8,5 @@ haxe/dist
 es6-babel/node_modules
 es6-babel/dist
 es6-factory/node_modules
+es6-class/node_modules
+es6-class/dist
