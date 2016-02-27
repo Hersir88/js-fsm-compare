@@ -1,6 +1,7 @@
 # js-fsm-compare
 
 Compare of different ways to write js using lite Finite-state machine api.
+To run test check aditional information inside Readme files of each subfolder.
 
 ## Jasmine test
 
