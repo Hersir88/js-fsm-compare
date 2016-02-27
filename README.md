@@ -1,6 +1,6 @@
 # js-fsm-compare
 
-Compare of different js generators using lite Finite-state machine api.
+Compare of different ways to write js using lite Finite-state machine api.
 
 ## Jasmine test
 
